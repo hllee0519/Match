@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Match</string>
+    <string name="navigation_drawer_open">目錄</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Match</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">設定</string>
+
+    <string name="menu_swiss">瑞士輪</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="player">玩家</string>
+</resources>
