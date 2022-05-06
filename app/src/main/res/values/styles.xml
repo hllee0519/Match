@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<resources></resources>
+<resources>
+    <style name="Widget.Theme.Match.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style></resources>

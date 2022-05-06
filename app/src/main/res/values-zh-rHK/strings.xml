@@ -12,5 +12,5 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="player">玩家</string>
-    <string name="etPlayerHint">玩家名稱</string>
+    <string name="etPlayerHint">名稱</string>
 </resources>

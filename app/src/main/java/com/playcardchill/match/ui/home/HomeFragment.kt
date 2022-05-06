@@ -1,13 +1,17 @@
 package com.playcardchill.match.ui.home
 
+import com.playcardchill.match.R
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.EditText
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.playcardchill.match.databinding.FragmentHomeBinding
+
 
 class HomeFragment : Fragment() {
 
@@ -28,6 +32,9 @@ class HomeFragment : Fragment() {
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
+
+
+        val btnAddPlayer: FloatingActionButton = binding.btnAddPlayer
 //        val textView: TextView = binding.textHome
 //        homeViewModel.text.observe(viewLifecycleOwner) {
 //            textView.text = it
